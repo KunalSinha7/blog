@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).# blog
+***Next.js Blog***
+
+This where I write about whatever I want. Probably soccer and tech...
